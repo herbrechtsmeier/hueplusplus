@@ -3,6 +3,7 @@ project(hueplusplus)
 
 # options to set
 option(hueplusplus_TESTS "Build tests" OFF)
+option(hueplusplus_SAMPLES "Build samples" OFF)
 
 # get the correct installation directory for add_library() to work
 if(WIN32 AND NOT CYGWIN)
@@ -29,3 +30,7 @@ if (1 AND APPLE)
 endif()
 
 add_subdirectory(hueplusplus)
+
+if(hueplusplus_SAMPLES)
+	add_subdirectory(samples)
+endif()
