@@ -1,0 +1,5 @@
+<map id="BaseHttpHandler" name="BaseHttpHandler">
+<area shape="rect" id="node3" href="$class_lin_http_handler.html" title="Class to handle http requests and multicast requests on linux systems. " alt="" coords="5,155,115,181"/>
+<area shape="rect" id="node4" href="$class_win_http_handler.html" title="Class to handle http requests and multicast requests on windows systems. " alt="" coords="139,155,253,181"/>
+<area shape="rect" id="node2" href="$class_i_http_handler.html" title="Abstract class for classes that handle http requests and multicast requests. " alt="" coords="80,5,176,32"/>
+</map>

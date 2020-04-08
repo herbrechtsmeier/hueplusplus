@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node2" href="$class_hue_exception.html" title="Exception class with file information. Base class of all custom exception classes. " alt="" coords="133,5,237,32"/>
+<area shape="rect" id="node3" href="$class_hue_a_p_i_response_exception.html" title="Exception caused by a Hue API &quot;error&quot; response with additional information. " alt="" coords="286,5,471,32"/>
+</map>

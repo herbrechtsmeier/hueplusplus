@@ -1,0 +1,14 @@
+<map id="hueplusplus/ExtendedColorTemperatureStrategy.cpp" name="hueplusplus/ExtendedColorTemperatureStrategy.cpp">
+<area shape="rect" id="node2" href="$_extended_color_temperature_strategy_8h.html" title="include/ExtendedColorTemperature\lStrategy.h" alt="" coords="643,97,869,138"/>
+<area shape="rect" id="node23" href="$_hue_config_8h.html" title="include/HueConfig.h" alt="" coords="1202,104,1341,131"/>
+<area shape="rect" id="node24" href="$_hue_exception_macro_8h.html" title="include/HueExceptionMacro.h" alt="" coords="169,261,364,288"/>
+<area shape="rect" id="node25" href="$_utils_8h.html" title="include/Utils.h" alt="" coords="47,187,152,213"/>
+<area shape="rect" id="node3" href="$_hue_light_8h.html" title="HueLight.h" alt="" coords="493,261,579,288"/>
+<area shape="rect" id="node20" href="$_simple_color_temperature_strategy_8h.html" title="SimpleColorTemperatureStrategy.h" alt="" coords="643,187,869,213"/>
+<area shape="rect" id="node5" href="$_brightness_strategy_8h.html" title="BrightnessStrategy.h" alt="" coords="607,336,751,363"/>
+<area shape="rect" id="node7" href="$_color_hue_strategy_8h.html" title="ColorHueStrategy.h" alt="" coords="445,336,581,363"/>
+<area shape="rect" id="node8" href="$_color_temperature_strategy_8h.html" title="ColorTemperatureStrategy.h" alt="" coords="775,336,961,363"/>
+<area shape="rect" id="node9" href="$_hue_command_a_p_i_8h.html" title="HueCommandAPI.h" alt="" coords="281,336,420,363"/>
+<area shape="rect" id="node13" href="$_hue_exception_8h.html" title="HueException.h" alt="" coords="92,411,207,437"/>
+<area shape="rect" id="node17" href="$_i_http_handler_8h.html" title="IHttpHandler.h" alt="" coords="535,411,641,437"/>
+</map>

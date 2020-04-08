@@ -1,0 +1,6 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_i_http_handler.html" title="Abstract class for classes that handle http requests and multicast requests. " alt="" coords="5,31,101,57"/>
+<area shape="rect" id="node2" href="$class_base_http_handler.html" title="Base class for classes that handle http requests and multicast requests. " alt="" coords="149,31,272,57"/>
+<area shape="rect" id="node3" href="$class_lin_http_handler.html" title="Class to handle http requests and multicast requests on linux systems. " alt="" coords="323,5,432,32"/>
+<area shape="rect" id="node4" href="$class_win_http_handler.html" title="Class to handle http requests and multicast requests on windows systems. " alt="" coords="320,56,435,83"/>
+</map>

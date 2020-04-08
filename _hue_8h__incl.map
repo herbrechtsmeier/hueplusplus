@@ -1,0 +1,9 @@
+<map id="hueplusplus/include/Hue.h" name="hueplusplus/include/Hue.h">
+<area shape="rect" id="node7" href="$_brightness_strategy_8h.html" title="BrightnessStrategy.h" alt="" coords="337,171,481,197"/>
+<area shape="rect" id="node9" href="$_color_hue_strategy_8h.html" title="ColorHueStrategy.h" alt="" coords="506,171,643,197"/>
+<area shape="rect" id="node10" href="$_color_temperature_strategy_8h.html" title="ColorTemperatureStrategy.h" alt="" coords="127,171,313,197"/>
+<area shape="rect" id="node11" href="$_hue_command_a_p_i_8h.html" title="HueCommandAPI.h" alt="" coords="855,171,993,197"/>
+<area shape="rect" id="node18" href="$_i_http_handler_8h.html" title="IHttpHandler.h" alt="" coords="1197,245,1304,272"/>
+<area shape="rect" id="node20" href="$_hue_light_8h.html" title="HueLight.h" alt="" coords="625,96,711,123"/>
+<area shape="rect" id="node15" href="$_hue_exception_8h.html" title="HueException.h" alt="" coords="755,245,869,272"/>
+</map>

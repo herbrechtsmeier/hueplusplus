@@ -1,0 +1,4 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_brightness_strategy.html" title="Virtual base class for all BrightnessStrategies. " alt="" coords="5,5,139,32"/>
+<area shape="rect" id="node2" href="$class_simple_brightness_strategy.html" title="Class implementing the functions of BrightnessStrategy. " alt="" coords="187,5,360,32"/>
+</map>

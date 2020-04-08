@@ -1,0 +1,5 @@
+<map id="Graphical Class Hierarchy" name="Graphical Class Hierarchy">
+<area shape="rect" id="node1" href="$class_color_temperature_strategy.html" title="Virtual base class for all ColorTemperatureStrategies. " alt="" coords="6,12,181,39"/>
+<area shape="rect" id="node2" href="$class_simple_color_temperature_strategy.html" title="Class implementing the functions of ColorTemperatureStrategy. " alt="" coords="230,12,445,39"/>
+<area shape="rect" id="node3" href="$class_extended_color_temperature_strategy.html" title="Class implementing the functions of ColorTemperatureStrategy. " alt="" coords="493,5,675,46"/>
+</map>

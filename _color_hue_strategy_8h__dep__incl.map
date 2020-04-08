@@ -1,0 +1,16 @@
+<map id="hueplusplus/include/ColorHueStrategy.h" name="hueplusplus/include/ColorHueStrategy.h">
+<area shape="rect" id="node2" href="$_hue_light_8h.html" title="hueplusplus/include\l/HueLight.h" alt="" coords="783,97,917,138"/>
+<area shape="rect" id="node6" href="$_simple_color_hue_strategy_8h.html" title="hueplusplus/include\l/SimpleColorHueStrategy.h" alt="" coords="267,187,448,229"/>
+<area shape="rect" id="node12" href="$_hue_8h.html" title="hueplusplus/include\l/Hue.h" alt="" coords="1237,187,1372,229"/>
+<area shape="rect" id="node3" href="$_extended_color_hue_strategy_8h.html" title="hueplusplus/include\l/ExtendedColorHueStrategy.h" alt="" coords="219,278,415,319"/>
+<area shape="rect" id="node8" href="$_extended_color_temperature_strategy_8h.html" title="hueplusplus/include\l/ExtendedColorTemperatureStrategy.h" alt="" coords="1077,278,1323,319"/>
+<area shape="rect" id="node10" href="$_simple_color_temperature_strategy_8h.html" title="hueplusplus/include\l/SimpleColorTemperatureStrategy.h" alt="" coords="735,187,965,229"/>
+<area shape="rect" id="node13" href="$_simple_brightness_strategy_8h.html" title="hueplusplus/include\l/SimpleBrightnessStrategy.h" alt="" coords="523,187,711,229"/>
+<area shape="rect" id="node15" href="$_hue_light_8cpp.html" title="hueplusplus/HueLight.cpp" alt="" coords="990,195,1161,221"/>
+<area shape="rect" id="node4" href="$_extended_color_hue_strategy_8cpp.html" title="hueplusplus/ExtendedColor\lHueStrategy.cpp" alt="" coords="227,369,408,410"/>
+<area shape="rect" id="node5" href="$_hue_8cpp.html" title="hueplusplus/Hue.cpp" alt="" coords="679,376,823,403"/>
+<area shape="rect" id="node7" href="$_simple_color_hue_strategy_8cpp.html" title="hueplusplus/SimpleColorHue\lStrategy.cpp" alt="" coords="5,278,195,319"/>
+<area shape="rect" id="node9" href="$_extended_color_temperature_strategy_8cpp.html" title="hueplusplus/ExtendedColor\lTemperatureStrategy.cpp" alt="" coords="1109,369,1291,410"/>
+<area shape="rect" id="node11" href="$_simple_color_temperature_strategy_8cpp.html" title="hueplusplus/SimpleColorTemperature\lStrategy.cpp" alt="" coords="814,278,1052,319"/>
+<area shape="rect" id="node14" href="$_simple_brightness_strategy_8cpp.html" title="hueplusplus/SimpleBrightness\lStrategy.cpp" alt="" coords="491,278,688,319"/>
+</map>
